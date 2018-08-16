@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: gamePadRL.PcbDoc   2016/4/26  14:36:22
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : gamePadRL.TXT
+EIA File   : gamePadRL.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        27.56mil (0.70002mm)     Round          3                0.14 Inch (3.60 mm)
+---------------------------------------------------------------------------
+Totals                                            3                0.14 Inch (3.60 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

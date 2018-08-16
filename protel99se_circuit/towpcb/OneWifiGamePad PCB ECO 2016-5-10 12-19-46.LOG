@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=D8 Pin=Q1-1
+Removed Pin From Net: NetName=DTR Pin=Q1-3
+Removed Pin From Net: NetName=RESET Pin=Q2-1
+Removed Pin From Net: NetName=RTS Pin=Q2-3
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=QNPN New DesignItemId=NPN_23-3
+Change Component DesignItemId : Designator=Q2 Old DesignItemId=QNPN New DesignItemId=NPN_23-3
+Change Component Description : Designator=Q1 Old Description=NPN Bipolar Transistor New Description=
+Change Component Description : Designator=Q2 Old Description=NPN Bipolar Transistor New Description=
+Change Component Library : Designator=Q1 Old Library=Miscellaneous Devices.IntLib New Library=24c02_sot23_5.SchLib
+Change Component Library : Designator=Q2 Old Library=Miscellaneous Devices.IntLib New Library=24c02_sot23_5.SchLib
+Added Pin To Net: NetName=DTR Pin=Q1-2
+Added Pin To Net: NetName=D8 Pin=Q1-3
+Added Pin To Net: NetName=RTS Pin=Q2-2
+Added Pin To Net: NetName=RESET Pin=Q2-3
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R2-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R1-1
+Added Net: Name=NetQ2_1
