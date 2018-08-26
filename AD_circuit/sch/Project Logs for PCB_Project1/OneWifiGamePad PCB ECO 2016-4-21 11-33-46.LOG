@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=D4 Pin=Key_L1-1
+Removed Pin From Net: NetName=D2 Pin=Key_L1-2
+Removed Pin From Net: NetName=D4 Pin=Key_L2-1
+Removed Pin From Net: NetName=D5 Pin=Key_L2-2
+Removed Pin From Net: NetName=D4 Pin=Key_R1-1
+Removed Pin From Net: NetName=D7 Pin=Key_R1-2
+Removed Pin From Net: NetName=D4 Pin=Key_R2-1
+Removed Pin From Net: NetName=D6 Pin=Key_R2-2
+Removed Pin From Net: NetName=GND Pin=RSET-1
+Removed Pin From Net: NetName=NetBtn_1 Pin=RSET-2
+Added Component: Designator=JL_out(sip-3)
+Added Component: Designator=JR_out(sip-3)
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=NetBtn_1 Pin=RSET-1
+Added Pin To Net: NetName=GND Pin=RSET-2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=U1-8
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetJL_out_1 Pin=JL_out-1
+Added Pin To Net: NetName=NetJL_out_1 Pin=Key_L2-1
+Added Net: Name=NetJL_out_1
+Added Pin To Net: NetName=NetJL_out_2 Pin=JL_out-2
+Added Pin To Net: NetName=NetJL_out_2 Pin=Key_L1-2
+Added Pin To Net: NetName=NetJL_out_2 Pin=Key_L2-2
+Added Net: Name=NetJL_out_2
+Added Pin To Net: NetName=NetJL_out_3 Pin=JL_out-3
+Added Pin To Net: NetName=NetJL_out_3 Pin=Key_L1-1
+Added Net: Name=NetJL_out_3
+Added Pin To Net: NetName=NetJR_out_1 Pin=JR_out-1
+Added Pin To Net: NetName=NetJR_out_1 Pin=Key_R2-1
+Added Net: Name=NetJR_out_1
+Added Pin To Net: NetName=NetJR_out_2 Pin=JR_out-2
+Added Pin To Net: NetName=NetJR_out_2 Pin=Key_R1-2
+Added Pin To Net: NetName=NetJR_out_2 Pin=Key_R2-2
+Added Net: Name=NetJR_out_2
+Added Pin To Net: NetName=NetJR_out_3 Pin=JR_out-3
+Added Pin To Net: NetName=NetJR_out_3 Pin=Key_R1-1
+Added Net: Name=NetJR_out_3

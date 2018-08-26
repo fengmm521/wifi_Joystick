@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=NetJL_out_1 Pin=JL_out-1
+Added Pin To Net: NetName=NetJL_out_1 Pin=Key_L2-1
+Added Net: Name=NetJL_out_1
+Added Pin To Net: NetName=NetJL_out_2 Pin=JL_out-2
+Added Pin To Net: NetName=NetJL_out_2 Pin=Key_L1-2
+Added Pin To Net: NetName=NetJL_out_2 Pin=Key_L2-2
+Added Net: Name=NetJL_out_2
+Added Pin To Net: NetName=NetJL_out_3 Pin=JL_out-3
+Added Pin To Net: NetName=NetJL_out_3 Pin=Key_L1-1
+Added Net: Name=NetJL_out_3

@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: OneWifiGamePad.PcbDoc   2016/4/25  23:01:10
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : OneWifiGamePad.TXT
+EIA File   : OneWifiGamePad.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        11.81mil (0.29997mm)     Round          45               11.30 Inch (287.10 mm)
+T2        27.56mil (0.70002mm)     Round          12               3.58 Inch (91.02 mm)
+T3        35.43mil (0.89992mm)     Round          4                0.62 Inch (15.70 mm)
+T4        18mil (0.4572mm)         Round          2         NPTH   0.15 Inch (3.80 mm)
+---------------------------------------------------------------------------
+Totals                                            63               15.65 Inch (397.62 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

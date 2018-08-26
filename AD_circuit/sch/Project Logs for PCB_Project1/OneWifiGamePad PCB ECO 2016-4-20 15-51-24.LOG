@@ -1,0 +1,6 @@
+Added Component: Designator=R_F1(0805)
+Added Component: Designator=X1(RAD-0.2)
+Added Pin To Net: NetName=NetJ1_1 Pin=R_F1-1
+Added Pin To Net: NetName=USBVCC Pin=R_F1-2
+Added Pin To Net: NetName=XO Pin=X1-1
+Added Pin To Net: NetName=XI Pin=X1-2

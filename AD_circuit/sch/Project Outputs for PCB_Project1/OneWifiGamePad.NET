@@ -1,0 +1,2300 @@
+PROTEL NETLIST 2.0
+[
+DESIGNATOR
+Btn
+FOOTPRINT
+SW_6x6
+PARTTYPE
+button
+DESCRIPTION
+
+Comment
+button
+Component Kind
+Standard
+Description
+
+Footprint
+SW_6x6
+Library Name
+24c02_sot23_5.SchLib
+Library Reference
+button
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+C1
+FOOTPRINT
+0603
+PARTTYPE
+22p
+DESCRIPTION
+Capacitor
+Comment
+22p
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+0603
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.01uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C2
+FOOTPRINT
+0603
+PARTTYPE
+22p
+DESCRIPTION
+Capacitor
+Comment
+22p
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+0603
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.01uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C3
+FOOTPRINT
+CAPPR1.5-4x5
+PARTTYPE
+10uF
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+10uF
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+CAPPR1.5-4x5
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C4
+FOOTPRINT
+0603
+PARTTYPE
+100n
+DESCRIPTION
+Capacitor
+Comment
+100n
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+0603
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C8
+FOOTPRINT
+CAPPR1.5-4x5
+PARTTYPE
+10V
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+10V
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+CAPPR1.5-4x5
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+100uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C9
+FOOTPRINT
+CAPPR1.5-4x5
+PARTTYPE
+10V
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+10V
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+CAPPR1.5-4x5
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+100uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C10
+FOOTPRINT
+0603
+PARTTYPE
+Cap
+DESCRIPTION
+Capacitor
+Comment
+Cap
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+0603
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C11
+FOOTPRINT
+0603
+PARTTYPE
+104
+DESCRIPTION
+Capacitor
+Comment
+104
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+0603
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+D_ON
+FOOTPRINT
+0603
+PARTTYPE
+LED2
+DESCRIPTION
+Typical RED, GREEN, YELLOW, AMBER GaAs LED
+Comment
+LED2
+Component Kind
+Standard
+Description
+Typical RED, GREEN, YELLOW, AMBER GaAs LED
+Footprint
+0603
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+LED2
+PackageReference
+3.2X1.6X1.1
+PackageVersion
+Feb-2002
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+]
+[
+DESIGNATOR
+J1
+FOOTPRINT
+MICRO-USB
+PARTTYPE
+VUSB
+DESCRIPTION
+
+Comment
+VUSB
+Component Kind
+Standard
+Description
+
+Footprint
+MICRO-USB
+Library Name
+Schlib1.SchLib
+Library Reference
+VUSB
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+JL
+FOOTPRINT
+sip-3
+PARTTYPE
+CONJ-3
+DESCRIPTION
+
+Comment
+CONJ-3
+Component Kind
+Standard
+Description
+
+Footprint
+sip-3
+Library Name
+24c02_sot23_5.SchLib
+Library Reference
+CONJ-3
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+JR
+FOOTPRINT
+sip-3
+PARTTYPE
+CONJ-3
+DESCRIPTION
+
+Comment
+CONJ-3
+Component Kind
+Standard
+Description
+
+Footprint
+sip-3
+Library Name
+24c02_sot23_5.SchLib
+Library Reference
+CONJ-3
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+Jusb
+FOOTPRINT
+sip-5
+PARTTYPE
+CONJ-5
+DESCRIPTION
+
+Comment
+CONJ-5
+Component Kind
+Standard
+Description
+
+Footprint
+sip-5
+Library Name
+24c02_sot23_5.SchLib
+Library Reference
+CONJ-5
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+Key_a1
+FOOTPRINT
+gamepad
+PARTTYPE
+SW-PB
+DESCRIPTION
+Switch
+Comment
+SW-PB
+Component Kind
+Standard
+Description
+Switch
+Footprint
+gamepad
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+SW-PB
+PackageReference
+SPST-2
+PCB3D
+
+Published
+24-Mar-1999
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+Key_a2
+FOOTPRINT
+gamepad
+PARTTYPE
+SW-PB
+DESCRIPTION
+Switch
+Comment
+SW-PB
+Component Kind
+Standard
+Description
+Switch
+Footprint
+gamepad
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+SW-PB
+PackageReference
+SPST-2
+PCB3D
+
+Published
+24-Mar-1999
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+Key_b1
+FOOTPRINT
+gamepad
+PARTTYPE
+SW-PB
+DESCRIPTION
+Switch
+Comment
+SW-PB
+Component Kind
+Standard
+Description
+Switch
+Footprint
+gamepad
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+SW-PB
+PackageReference
+SPST-2
+PCB3D
+
+Published
+24-Mar-1999
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+Key_b2
+FOOTPRINT
+gamepad
+PARTTYPE
+SW-PB
+DESCRIPTION
+Switch
+Comment
+SW-PB
+Component Kind
+Standard
+Description
+Switch
+Footprint
+gamepad
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+SW-PB
+PackageReference
+SPST-2
+PCB3D
+
+Published
+24-Mar-1999
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+Key_Down
+FOOTPRINT
+gamepad
+PARTTYPE
+SW-PB
+DESCRIPTION
+Switch
+Comment
+SW-PB
+Component Kind
+Standard
+Description
+Switch
+Footprint
+gamepad
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+SW-PB
+PackageReference
+SPST-2
+PCB3D
+
+Published
+24-Mar-1999
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+Key_L1
+FOOTPRINT
+gamepad
+PARTTYPE
+SW-PB
+DESCRIPTION
+Switch
+Comment
+SW-PB
+Component Kind
+Standard
+Description
+Switch
+Footprint
+gamepad
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+SW-PB
+PackageReference
+SPST-2
+PCB3D
+
+Published
+24-Mar-1999
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+Key_L2
+FOOTPRINT
+gamepad
+PARTTYPE
+SW-PB
+DESCRIPTION
+Switch
+Comment
+SW-PB
+Component Kind
+Standard
+Description
+Switch
+Footprint
+gamepad
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+SW-PB
+PackageReference
+SPST-2
+PCB3D
+
+Published
+24-Mar-1999
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+Key_Left
+FOOTPRINT
+GamePad
+PARTTYPE
+SW-PB
+DESCRIPTION
+Switch
+Comment
+SW-PB
+Component Kind
+Standard
+Description
+Switch
+Footprint
+GamePad
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+SW-PB
+PackageReference
+SPST-2
+PCB3D
+
+Published
+24-Mar-1999
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+Key_R1
+FOOTPRINT
+gamepad
+PARTTYPE
+SW-PB
+DESCRIPTION
+Switch
+Comment
+SW-PB
+Component Kind
+Standard
+Description
+Switch
+Footprint
+gamepad
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+SW-PB
+PackageReference
+SPST-2
+PCB3D
+
+Published
+24-Mar-1999
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+Key_R2
+FOOTPRINT
+gamepad
+PARTTYPE
+SW-PB
+DESCRIPTION
+Switch
+Comment
+SW-PB
+Component Kind
+Standard
+Description
+Switch
+Footprint
+gamepad
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+SW-PB
+PackageReference
+SPST-2
+PCB3D
+
+Published
+24-Mar-1999
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+Key_Right
+FOOTPRINT
+gamepad
+PARTTYPE
+SW-PB
+DESCRIPTION
+Switch
+Comment
+SW-PB
+Component Kind
+Standard
+Description
+Switch
+Footprint
+gamepad
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+SW-PB
+PackageReference
+SPST-2
+PCB3D
+
+Published
+24-Mar-1999
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+Key_UP
+FOOTPRINT
+gamepad
+PARTTYPE
+SW-PB
+DESCRIPTION
+Switch
+Comment
+SW-PB
+Component Kind
+Standard
+Description
+Switch
+Footprint
+gamepad
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+SW-PB
+PackageReference
+SPST-2
+PCB3D
+
+Published
+24-Mar-1999
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+Q1
+FOOTPRINT
+sot23-3
+PARTTYPE
+S8050
+DESCRIPTION
+NPN Bipolar Transistor
+Comment
+S8050
+Component Kind
+Standard
+Description
+NPN Bipolar Transistor
+Footprint
+sot23-3
+LatestRevisionDate
+29-May-2009
+LatestRevisionNote
+IPC-7351 Footprint Added.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+QNPN
+PackageDescription
+3-Pin SOT-23 Package 0.95 mm Pitch, 2.4 mm Lead Span
+PackageReference
+SOT-23B
+PackageVersion
+Aug-1999
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+
+*
+]
+[
+DESIGNATOR
+Q2
+FOOTPRINT
+sot23-3
+PARTTYPE
+S8050
+DESCRIPTION
+NPN Bipolar Transistor
+Comment
+S8050
+Component Kind
+Standard
+Description
+NPN Bipolar Transistor
+Footprint
+sot23-3
+LatestRevisionDate
+29-May-2009
+LatestRevisionNote
+IPC-7351 Footprint Added.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+QNPN
+PackageDescription
+3-Pin SOT-23 Package 0.95 mm Pitch, 2.4 mm Lead Span
+PackageReference
+SOT-23B
+PackageVersion
+Aug-1999
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+
+*
+]
+[
+DESIGNATOR
+R1
+FOOTPRINT
+0603
+PARTTYPE
+10K
+DESCRIPTION
+Resistor
+Comment
+10K
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+0603
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res2
+PackageReference
+AXIAL-0.4
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R2
+FOOTPRINT
+0603
+PARTTYPE
+10K
+DESCRIPTION
+Resistor
+Comment
+10K
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+0603
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res2
+PackageReference
+AXIAL-0.4
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R3
+FOOTPRINT
+0603
+PARTTYPE
+470
+DESCRIPTION
+Resistor
+Comment
+470
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+0603
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res2
+PackageReference
+AXIAL-0.4
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+Value
+1K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R4
+FOOTPRINT
+0603
+PARTTYPE
+470
+DESCRIPTION
+Resistor
+Comment
+470
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+0603
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res2
+PackageReference
+AXIAL-0.4
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+Value
+1K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R11
+FOOTPRINT
+0603
+PARTTYPE
+10K
+DESCRIPTION
+Resistor
+Comment
+10K
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+0603
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res2
+PackageReference
+AXIAL-0.4
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R12
+FOOTPRINT
+0603
+PARTTYPE
+10K
+DESCRIPTION
+Resistor
+Comment
+10K
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+0603
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res2
+PackageReference
+AXIAL-0.4
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R13
+FOOTPRINT
+0603
+PARTTYPE
+20K
+DESCRIPTION
+Resistor
+Comment
+20K
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+0603
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res2
+PackageReference
+AXIAL-0.4
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R15
+FOOTPRINT
+0603
+PARTTYPE
+1K
+DESCRIPTION
+Resistor
+Comment
+1K
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+0603
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res2
+PackageReference
+AXIAL-0.4
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R18
+FOOTPRINT
+0603
+PARTTYPE
+10K
+DESCRIPTION
+Resistor
+Comment
+10K
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+0603
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res2
+PackageReference
+AXIAL-0.4
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R_F1
+FOOTPRINT
+AXIAL-0.4
+PARTTYPE
+0.5A
+DESCRIPTION
+Resistor
+Comment
+0.5A
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+AXIAL-0.4
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res2
+PackageReference
+AXIAL-0.4
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+1K
+
+*
+
+*
+]
+[
+DESIGNATOR
+RIIC1
+FOOTPRINT
+0603
+PARTTYPE
+10k
+DESCRIPTION
+Resistor
+Comment
+10k
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+0603
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res2
+PackageReference
+AXIAL-0.4
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+RIIC2
+FOOTPRINT
+0603
+PARTTYPE
+10k
+DESCRIPTION
+Resistor
+Comment
+10k
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+0603
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res2
+PackageReference
+AXIAL-0.4
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+Rreset
+FOOTPRINT
+0603
+PARTTYPE
+10k
+DESCRIPTION
+Resistor
+Comment
+10k
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+0603
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res2
+PackageReference
+AXIAL-0.4
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+RESISTOR
+Value
+20K
+
+*
+
+*
+]
+[
+DESIGNATOR
+RSET
+FOOTPRINT
+0603
+PARTTYPE
+Res2
+DESCRIPTION
+Resistor
+Comment
+Res2
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+0603
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res2
+PackageReference
+AXIAL-0.4
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+Value
+470R
+
+*
+
+*
+]
+[
+DESIGNATOR
+U1
+FOOTPRINT
+ESP_12
+PARTTYPE
+ESP-12
+DESCRIPTION
+
+Comment
+ESP-12
+Component Kind
+Standard
+Description
+
+Footprint
+ESP_12
+Library Name
+ESP-12.SchLib
+Library Reference
+ESP-12
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+U2
+FOOTPRINT
+sop16
+PARTTYPE
+CH340
+DESCRIPTION
+RS232
+Comment
+CH340
+Component Kind
+Standard
+Description
+RS232
+Footprint
+sop16
+Library Name
+Schlib1.SchLib
+Library Reference
+RS232
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+U3
+FOOTPRINT
+sot-223
+PARTTYPE
+AMS1117
+DESCRIPTION
+
+Comment
+AMS1117
+Component Kind
+Standard
+Description
+
+Footprint
+sot-223
+Library Name
+Schlib1.SchLib
+Library Reference
+AMS1117
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+U5
+FOOTPRINT
+sot-23-5
+PARTTYPE
+at24c02
+DESCRIPTION
+
+Comment
+at24c02
+Component Kind
+Standard
+Description
+
+Footprint
+sot-23-5
+Library Name
+24c02_sot23_5.SchLib
+Library Reference
+at24c02
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+X1
+FOOTPRINT
+
+PARTTYPE
+osc-2
+DESCRIPTION
+
+Comment
+osc-2
+Component Kind
+Standard
+Description
+
+Footprint
+
+Library Name
+24c02_sot23_5.SchLib
+Library Reference
+osc-2
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+(
++3V3
+C3-1 10uF-1 Passive      
+C4-2 100n-2 Passive      
+C8-1 10V-1 Passive      
+C9-1 10V-1 Passive      
+R11-1 10K-1 Passive      
+R12-2 10K-2 Passive      
+R13-2 20K-2 Passive      
+R18-1 10K-1 Passive      
+RIIC1-1 10k-1 Passive      
+RIIC2-1 10k-1 Passive      
+Rreset-1 10k-1 Passive      
+U2-4 CH340-V3 Passive      
+U2-16 CH340-VCC Passive      
+U3-2 AMS1117-OUT Passive      
+U3-4 AMS1117-p4 Passive      
+U5-4 at24c02-Vcc Passive      
+)
+(
+ADC
+U1-2 ESP-12-ADC Input        
+)
+(
+D2
+Btn-3 button-b2 Passive      
+Btn-4 button-a2 Passive      
+JL-3 CONJ-3-c3 Passive      
+Key_a1-2 SW-PB-2 Passive      
+Key_L1-2 SW-PB-2 Passive      
+Key_Left-2 SW-PB-2 Passive      
+Rreset-2 10k-2 Passive      
+U1-4 ESP-12-GPIO16 IO           
+)
+(
+D3
+Key_a1-1 SW-PB-1 Passive      
+Key_a2-1 SW-PB-1 Passive      
+Key_b1-1 SW-PB-1 Passive      
+Key_b2-1 SW-PB-1 Passive      
+U1-14 ESP-12-GPIO04 IO           
+)
+(
+D4
+JL-2 CONJ-3-c2 Passive      
+JR-2 CONJ-3-c2 Passive      
+Key_L1-1 SW-PB-1 Passive      
+Key_L2-1 SW-PB-1 Passive      
+Key_R1-1 SW-PB-1 Passive      
+Key_R2-1 SW-PB-1 Passive      
+U1-13 ESP-12-GPIO05 IO           
+)
+(
+D5
+JL-1 CONJ-3-c1 Passive      
+Key_b1-2 SW-PB-2 Passive      
+Key_Down-2 SW-PB-2 Passive      
+Key_L2-2 SW-PB-2 Passive      
+RIIC1-2 10k-2 Passive      
+U1-5 ESP-12-GPIO14 IO           
+U5-1 at24c02-SCL Passive      
+)
+(
+D6
+JR-1 CONJ-3-c1 Passive      
+Key_a2-2 SW-PB-2 Passive      
+Key_R2-2 SW-PB-2 Passive      
+Key_UP-2 SW-PB-2 Passive      
+RIIC2-2 10k-2 Passive      
+U1-6 ESP-12-GPIO12 IO           
+U5-3 at24c02-SDA Passive      
+)
+(
+D7
+JR-3 CONJ-3-c3 Passive      
+Key_b2-2 SW-PB-2 Passive      
+Key_R1-2 SW-PB-2 Passive      
+Key_Right-2 SW-PB-2 Passive      
+U1-7 ESP-12-GPIO13 IO           
+)
+(
+D8
+D_ON-2 LED2-K Passive      
+Q1-1 S8050-C Passive      
+R13-1 20K-1 Passive      
+U1-12 ESP-12-GPIO0 IO           
+U5-5 at24c02-WP Passive      
+)
+(
+D9
+Key_Down-1 SW-PB-1 Passive      
+Key_Left-1 SW-PB-1 Passive      
+Key_Right-1 SW-PB-1 Passive      
+Key_UP-1 SW-PB-1 Passive      
+U1-11 ESP-12-GPIO02 IO           
+)
+(
+D+
+J1-3 VUSB-D+ Passive      
+Jusb-3 CONJ-5-c3 Passive      
+U2-5 CH340-UD+ Passive      
+)
+(
+D-
+J1-2 VUSB-D- Passive      
+Jusb-2 CONJ-5-c2 Passive      
+U2-6 CH340-UD- Passive      
+)
+(
+DTR
+Q1-3 S8050-E Passive      
+R1-2 10K-2 Passive      
+U2-13 CH340-DTR# Passive      
+)
+(
+EN
+R11-2 10K-2 Passive      
+U1-3 ESP-12-CH_PD Input        
+)
+(
+GND
+C1-1 22p-1 Passive      
+C2-1 22p-1 Passive      
+C3-2 10uF-2 Passive      
+C4-1 100n-1 Passive      
+C8-2 10V-2 Passive      
+C9-2 10V-2 Passive      
+C10-1 Cap-1 Passive      
+C11-1 104-1 Passive      
+J1-5 VUSB-GND Passive      
+J1-S5 VUSB-SH5 Passive      
+J1-S6 VUSB-SH6 Passive      
+Jusb-5 CONJ-5-c5 Passive      
+R15-2 1K-2 Passive      
+RSET-1 Res2-1 Passive      
+U1-9 ESP-12-GND Power        
+U2-1 CH340-GND Passive      
+U3-1 AMS1117-p1 Passive      
+U5-2 at24c02-GND Passive      
+)
+(
+ID
+Jusb-4 CONJ-5-c4 Passive      
+)
+(
+NetBtn_1
+Btn-1 button-a1 Passive      
+Btn-2 button-b1 Passive      
+RSET-2 Res2-2 Passive      
+)
+(
+NetC10_2
+C10-2 Cap-2 Passive      
+U1-8 ESP-12-VCC Power        
+)
+(
+NetD_ON_1
+D_ON-1 LED2-A Passive      
+R18-2 10K-2 Passive      
+)
+(
+NetJ1_1
+J1-1 VUSB-VUSB Passive      
+R_F1-1 0.5A-1 Passive      
+)
+(
+NetQ1_2
+Q1-2 S8050-B Passive      
+R2-1 10K-1 Passive      
+)
+(
+NetQ2_2
+Q2-2 S8050-B Passive      
+R1-1 10K-1 Passive      
+)
+(
+NetR3_2
+R3-2 470-2 Passive      
+U2-2 CH340-TXD Passive      
+)
+(
+NetR4_2
+R4-2 470-2 Passive      
+U2-3 CH340-RXD Passive      
+)
+(
+NetR15_1
+R15-1 1K-1 Passive      
+U1-10 ESP-12-GPIO15 IO           
+)
+(
+RESET
+C11-2 104-2 Passive      
+Q2-1 S8050-C Passive      
+R12-1 10K-1 Passive      
+U1-1 ESP-12-REST Passive      
+)
+(
+RTS
+Q2-3 S8050-E Passive      
+R2-2 10K-2 Passive      
+U2-14 CH340-RTS# Passive      
+)
+(
+RX
+R3-1 470-1 Passive      
+U1-15 ESP-12-RXD Input        
+)
+(
+TX
+R4-1 470-1 Passive      
+U1-16 ESP-12-TXD Output       
+)
+(
+USBVCC
+Jusb-1 CONJ-5-c1 Passive      
+R_F1-2 0.5A-2 Passive      
+U3-3 AMS1117-IN Passive      
+)
+(
+XI
+C1-2 22p-2 Passive      
+U2-7 CH340-XI Passive      
+X1-2 osc-2-c7 Passive      
+)
+(
+XO
+C2-2 22p-2 Passive      
+U2-8 CH340-XO Passive      
+X1-1 osc-2-c6 Passive      
+)

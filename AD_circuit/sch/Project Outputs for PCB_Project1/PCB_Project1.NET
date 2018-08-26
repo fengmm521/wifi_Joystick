@@ -1,0 +1,219 @@
+PARTS LIST
+
+3.3               BAT-2           BT1
+button            SW_6x6          Btn
+22p               0603            C1
+22p               0603            C2
+10uF              CAPPR1.5-4x5    C3
+100n              0603            C4
+10V               CAPPR1.5-4x5    C8
+10V               CAPPR1.5-4x5    C9
+Cap               0603            C10
+470p              0603            C11
+Cap Pol1          RB7.6-15        CB1
+Cap               RAD-0.3         CM1
+LED2              0603            D_ON
+LED_RED           DSO-F2/D6.1     DB1
+LED_GREE          DSO-F2/D6.1     DB2
+VUSB              MICRO-USB       J1
+GPIO0                             J2
+CONJ-3            sip-3           JL
+CONJ-3            sip-3           JR
+CONJ-5            sip-5           Jusb
+Button                            K1
+Button                            K2
+SW-PB             gamepad         Key_a1
+SW-PB             gamepad         Key_a2
+SW-PB             gamepad         Key_b1
+SW-PB             gamepad         Key_b2
+SW-PB             gamepad         Key_Down
+SW-PB             gamepad         Key_L1
+SW-PB             gamepad         Key_L2
+SW-PB             GamePad         Key_Left
+SW-PB             gamepad         Key_R1
+SW-PB             gamepad         Key_R2
+SW-PB             gamepad         Key_Right
+SW-PB             gamepad         Key_UP
+Mic1              PIN2            MK1
+S8050             sot23-3         Q1
+S8050             sot23-3         Q2
+QNPN              SOT95P240-3N    Q3
+10K               0603            R1
+10K               0603            R2
+470               0603            R3
+470               0603            R4
+10K               0603            R11
+10K               0603            R12
+10K               0603            R13
+10K               AXIAL-0.4       R14
+10K               0603            R15
+10K               0603            R18
+1/4               AXIAL-0.4       R_bat
+0.5A              AXIAL-0.4       R_F1
+10k               0603            RIIC1
+10k               0603            RIIC2
+1/4               AXIAL-0.4       RLED1
+1/4               AXIAL-0.4       RLED2
+Res2              AXIAL-0.4       RM1
+Res2              AXIAL-0.4       RM2
+Res2              AXIAL-0.4       RM3
+Res2              AXIAL-0.4       RM4
+Res2              AXIAL-0.4       RM5
+Res2              AXIAL-0.4       RM6
+10k               0603            Rreset
+Res2              0603            RSET
+SW-SPDT           TL36WW15050     S_key
+ESP8266           ESP8266MOD?     U1
+CH340             CH340           U2
+AMS1117           sot-223         U3
+CN3059            CN3059          U4
+at24c02           sot-23-5        U5
+12M               OSO             X1
+EOS
+NET LIST
+
+NODENAME NetBT1-1         $
+    BT1        1  S_key      2
+NODENAME NetCM1-1         $
+    CM1        1  MK1        2  RM2        1
+NODENAME NetCM1-2         $
+    CM1        2  Q3         2  RM3        1  RM5        2
+NODENAME NetD_ON-1        $
+    D_ON       1  R18        2
+NODENAME NetDB1-1         $
+    DB1        1  RLED1      1
+NODENAME NetDB2-1         $
+    DB2        1  RLED2      1
+NODENAME NetJ1-1          $
+    J1         1  R_F1       1
+NODENAME NetK2-3          $
+    K2         3  K2         4  RSET       2
+NODENAME NetMK1-1         $
+    MK1        1  RM4        2
+NODENAME NetQ1-2          $
+    Q1         2  R2         1
+NODENAME NetQ2-2          $
+    Q2         2  R1         1
+NODENAME NetR3-2          $
+    R3         2  U2         2
+NODENAME NetR4-2          $
+    R4         2  U2         3
+NODENAME NetR_bat-1       $
+    R_bat      1  U4         2
+NODENAME NetRLED1-2       $
+    RLED1      2  RLED2      2
+NODENAME D10              $
+    R15        2  U1        10
+NODENAME NetBtn-1         $
+    Btn        1  Btn        2  RSET       2
+NODENAME NetC10-2         $
+    C10        2  U1         8
+NODENAME NetD_ON-1        $
+    D_ON       1  R18        2
+NODENAME NetJ1-1          $
+    J1         1  R_F1       1
+NODENAME NetQ1-2          $
+    Q1         2  R2         1
+NODENAME NetQ2-2          $
+    Q2         2  R1         1
+NODENAME NetR3-2          $
+    R3         2  U2         2
+NODENAME NetR4-2          $
+    R4         2  U2         3
+NODENAME NetR15-1         $
+    R15        1  U1        10
+NODENAME ID               $
+    Jusb       4
+NODENAME XO               $
+    C2         2  C2         2  C2         2  U2         8  U2         8  U2         8  X1         1  X1        xo  X1        xo
+NODENAME XI               $
+    C1         2  C1         2  C1         2  U2         7  U2         7  U2         7  X1         2  X1        xi  X1        xi
+NODENAME USBVCC           $
+    Jusb       1  R_F1       2  R_F1       2  R_F1       2  RM1        2  RM2        2  RM3        2  U3         3  U3         3  U3         3  U4         4  U4         4  U4         5  U4         5
+NODENAME TX               $
+    R4         1  R4         1  R4         1  U1        16  U1        16  U1        16
+NODENAME RX               $
+    R3         1  R3         1  R3         1  U1        15  U1        15  U1        15
+NODENAME RTS              $
+    Q2         3  Q2         3  Q2         3  R2         2  R2         2  R2         2  U2        14  U2        14  U2        14
+NODENAME RESET            $
+    C11        2  C11        2  C11        2  K1         1  K1         2  Q2         1  Q2         1  Q2         1  R12        1  R12        1  R12        2  U1         1  U1         1  U1         1
+NODENAME NetBT1-1         $
+    BT1        1  S_key      2
+NODENAME NetC10-2         $
+    C10        2  U1         8
+NODENAME NetD_ON-1        $
+    D_ON       1  R18        2
+NODENAME NetDB1-1         $
+    DB1        1  RLED1      1
+NODENAME NetDB2-1         $
+    DB2        1  RLED2      1
+NODENAME NetJ1-1          $
+    J1         1  R_F1       1
+NODENAME NetK2-3          $
+    K2         3  K2         4  RSET       2
+NODENAME NetQ1-2          $
+    Q1         2  R2         1
+NODENAME NetQ2-2          $
+    Q2         2  R1         1
+NODENAME NetR3-2          $
+    R3         2  U2         2
+NODENAME NetR4-2          $
+    R4         2  U2         3
+NODENAME NetR15-1         $
+    R15        1  U1        10
+NODENAME NetR_bat-1       $
+    R_bat      1  U4         2
+NODENAME EN               $
+    R11        2  R11        2  R11        2  U1         3  U1         3  U1         3
+NODENAME DTR              $
+    Q1         3  Q1         3  Q1         3  R1         2  R1         2  R1         2  U2        13  U2        13  U2        13
+NODENAME D-               $
+    J1         2  J1         2  J1         2  Jusb       2  U2         6  U2         6  U2         6
+NODENAME D+               $
+    J1         3  J1         3  J1         3  Jusb       3  U2         5  U2         5  U2         5
+NODENAME D9               $
+    K2         1  K2         2  Key_b2     2  Key_Down   1  Key_Down   1  Key_Left   1  Key_Left   1  Key_R1     2  Key_Right  1  Key_Right  1  Key_Right  2  Key_UP     1  Key_UP     1  R14        2  U1        11  U1        11  U1        11
+NODENAME D8               $
+    D_ON       2  D_ON       2  Q1         1  Q1         1  Q1         1  R13        1  R13        1  R13        2  U1        12  U1        12  U1        12  U5         5  U5         5
+NODENAME D7               $
+    JR         3  Key_a2     2  Key_b2     2  Key_b2     2  Key_R1     2  Key_R1     2  Key_R2     2  Key_Right  2  Key_Right  2  Key_UP     2  U1         7  U1         7  U1         7
+NODENAME D6               $
+    JR         1  Key_a2     2  Key_a2     2  Key_b1     2  Key_Down   2  Key_L2     2  Key_R2     2  Key_R2     2  Key_UP     2  Key_UP     2  RIIC2      2  RIIC2      2  U1         6  U1         6  U1         6  U5         3  U5         3
+NODENAME D5               $
+    JL         1  Key_a1     2  Key_b1     2  Key_b1     2  Key_Down   2  Key_Down   2  Key_L1     2  Key_L2     2  Key_L2     2  Key_Left   2  RIIC1      2  RIIC1      2  U1         5  U1         5  U1         5  U5         1  U5         1
+NODENAME D4               $
+    JL         2  JR         2  Key_L1     1  Key_L1     1  Key_L1     1  Key_L2     1  Key_L2     1  Key_L2     1  Key_R1     1  Key_R1     1  Key_R1     1  Key_R2     1  Key_R2     1  Key_R2     1  U1        13  U1        13  U1        13
+NODENAME D3               $
+    Key_a1     1  Key_a1     1  Key_a1     1  Key_a2     1  Key_a2     1  Key_a2     1  Key_b1     1  Key_b1     1  Key_b1     1  Key_b2     1  Key_b2     1  Key_b2     1  U1        14  U1        14  U1        14
+NODENAME D2               $
+    Btn        3  Btn        4  JL         3  K2         1  K2         2  Key_a1     2  Key_a1     2  Key_Down   1  Key_L1     2  Key_L1     2  Key_Left   1  Key_Left   2  Key_Left   2  Key_Right  1  Key_UP     1  Rreset     2  Rreset     2  U1         4  U1         4  U1         4
+NODENAME BDONE            $
+    DB2        2  DB2        2  U4         8  U4         8
+NODENAME BCHRG            $
+    DB1        2  DB1        2  U4         9  U4         9
+NODENAME BATTERY          $
+    CB1        1  CB1        1  S_key      3  S_key      3  U4         6  U4         6  U4         7  U4         7  U4        10  U4        10
+NODENAME ADC              $
+    Q3         1  RM1        1  RM6        2  U1         2  U1         2  U1         2
+NODENAME +3V3             $
+    C3         1  C3         1  C3         1  C4         2  C4         2  C4         2  C8         1  C8         1  C8         1  C9         1  C9         1  C9         1  C10        2  R11        1  R11        1  R11        1  R12        1  R12        2  R12        2  R13        1  R13        2  R13        2  R14        1  R18        1  R18        1  R18        1  RIIC1      1  RIIC1      1  RIIC2      1  RIIC2      1  RLED1      2  RLED2      2  Rreset     1  Rreset     1  S_key      1  S_key      1  U1         8  U2         4  U2         4  U2         4  U2        16  U2        16  U2        16  U3         2  U3         2  U3         2  U3         4  U3         4  U3         4  U5         4  U5         4
+NODENAME OUT              $
+    U1        14
+NODENAME NetC1-2          $
+    C1         2  R1         1  U1         1
+NODENAME NetJ1-1          $
+    J1         1  U1        16
+NODENAME NetJ1-2          $
+    J1         2  U1        15
+NODENAME NetJ2-1          $
+    J2         1  U1        12
+NODENAME NetR2-2          $
+    R2         2  U1         3
+NODENAME NetR3-1          $
+    R3         1  U1        10
+NODENAME GND              $
+    BT1        2  BT1        2  C1         1  C1         1  C1         1  C1         1  C2         1  C2         1  C2         1  C3         2  C3         2  C3         2  C4         1  C4         1  C4         1  C8         2  C8         2  C8         2  C9         2  C9         2  C9         2  C10        1  C10        1  C10        1  C11        1  C11        1  C11        1  CB1        2  CB1        2  D_ON       2  J1         3  J1         5  J1         5  J1         5  J1        S5  J1        S5  J1        S5  J1        S6  J1        S6  J1        S6  J2         2  Jusb       5  K1         3  K1         4  Q3         3  R3         2  R15        1  R15        2  R15        2  R_bat      2  R_bat      2  RM4        1  RM5        1  RM6        1  RSET       1  RSET       1  RSET       1  U1         9  U1         9  U1         9  U1         9  U2         1  U2         1  U2         1  U3         1  U3         1  U3         1  U4         1  U4         1  U4         3  U4         3  U4        11  U4        11  U5         2  U5         2  X1        g1  X1        g1  X1        g2  X1        g2
+NODENAME 3.3V             $
+    R1         2  R2         1  U1         8
+EOS

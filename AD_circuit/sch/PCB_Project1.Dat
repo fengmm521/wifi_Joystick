@@ -1,0 +1,34 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project1.PrjPCB|ReportField=ProjectFullPath~C:\Users\Administrator\Documents\sch\PCB_Project1.PrjPCB|ReportField=Title~Bill of Materials For Project [PCB_Project1.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~65|ReportField=ReportTime~18:42:21|ReportField=ReportDate~2016/4/19|ReportField=ReportDateTime~2016/4/19 18:42:21|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2016/4/19|ReportField=CurrentTime~18:42:12|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Administrator\Documents\GameWifi\ESP-12.SchDoc|ReportField=DocumentName~ESP-12.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2016/4/19|ReportField=Organization~|ReportField=ProjectName~PCB_Project1.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project1.PrjPCB|ReportField=DataSourceFullPath~C:\Users\Administrator\Documents\sch\PCB_Project1.PrjPCB
+3.3|Multicell Battery|BT1|BAT-2|Battery|1
+22p|Capacitor|C1|0805|Cap|1
+22p|Capacitor|C2|RAD-0.3|Cap|1
+10uF|Polarized Capacitor (Radial)|C3|RB7.6-15|Cap Pol1|1
+100n|Capacitor|C4|RAD-0.3|Cap|1
+10V|Polarized Capacitor (Radial)|C8, C9|RB7.6-15|Cap Pol1|2
+Cap|Capacitor|C10, CM1|RAD-0.3|Cap|2
+470p|Capacitor|C11|RAD-0.3|Cap|1
+Cap Pol1|Polarized Capacitor (Radial)|CB1|RB7.6-15|Cap Pol1|1
+LED_RED|Typical RED, GREEN, YELLOW, AMBER GaAs LED|DB1|DSO-F2/D6.1|LED2|1
+LED_GREE|Typical RED, GREEN, YELLOW, AMBER GaAs LED|DB2|DSO-F2/D6.1|LED2|1
+LED2|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D_ON|DSO-F2/D6.1|LED2|1
+VUSB||J1||VUSB|1
+GPIO0||J2||GPIO0|1
+Button|Button key|K1, K2||Button|2
+SW-PB|Switch|Key_a1, Key_a2, Key_b1, Key_b2, Key_Down, Key_L1, Key_L2, Key_Left, Key_R1, Key_R2, Key_Right, Key_UP|SPST-2|SW-PB|12
+Mic1|Microphone|MK1|PIN2|Mic1|1
+S8050|NPN Bipolar Transistor|Q1, Q2|SOT95P240-3N|QNPN|2
+QNPN|NPN Bipolar Transistor|Q3|SOT95P240-3N|QNPN|1
+10K|Resistor|R1, R2|0805|Res2|2
+470|Resistor|R3|0805|Res2|1
+470|Resistor|R4|AXIAL-0.4|Res2|1
+10K|Resistor|R11, R12, R13, R14, R15, R18, RIIC1, RIIC2, Rreset|AXIAL-0.4|Res2|9
+Res2|Resistor|RM1, RM2, RM3, RM4, RM5, RM6, RSET|AXIAL-0.4|Res2|7
+1/4|Resistor|R_bat, RLED1, RLED2|AXIAL-0.4|Res2|3
+0.5A|Resistor|R_F1|AXIAL-0.4|Res2|1
+SW-SPDT|SPDT Subminiature Toggle Switch, Right Angle Mounting, Vertical Actuation|S_key|TL36WW15050|SW-SPDT|1
+ESP8266|MCU|U1|ESP8266MOD?|ESP8266|1
+CH340|RS232|U2|CH340|RS232|1
+AMS1117||U3||AMS1117|1
+CN3059|CN3059|U4|CN3059|CN3059|1
+at24c02||U5||at24c02|1
+12M||X1|OSO|oso|1

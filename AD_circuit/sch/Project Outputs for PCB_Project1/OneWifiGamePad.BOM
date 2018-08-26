@@ -1,0 +1,32 @@
+Bill of Material for OneWifiGamePad.PcbDoc
+On 2016/4/22 at 1:29:28
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0.5A                0805             1    R_F1                         Resistor             
+ 100n                0603             1    C4                           Capacitor            
+ 104                 0603             1    C11                          Capacitor            
+ 10K                 0603             8    R1, R2, R11, R12, R18, RIIC1 Resistor             
+                                           RIIC2, Rreset
+ 10uF                smd-ec-f5        1    C3                           Polarized Capacitor (Radial) 
+ 10V                 smd-ec-f5        2    C8, C9                       Polarized Capacitor (Radial) 
+ 1K                  0603             1    R15                          Resistor             
+ 20K                 0603             1    R13                          Resistor             
+ 22p                 0603             2    C1, C2                       Capacitor            
+ 470                 0603             2    R3, R4                       Resistor             
+ AMS1117             sot-223          1    U3                                                
+ at24c02             sot-23-5         1    U5                                                
+ button              SW_6x6           1    Btn                                               
+ Cap                 0603             1    C10                          Capacitor            
+ CH340               TSOP65P640-16AM    1    U2                           RS232                
+ CONJ-3              SIP-3            2    JL, JR                                            
+ CONJ-5              sip-5            1    Jusb                                              
+ ESP-12              ESP_12           1    U1                                                
+ LED2                0603             1    D_ON                         Typical RED, GREEN, YELLOW, AMBER GaAs LED 
+ Micro-USB           MICRO_USB_B      1    J1                                                
+ osc-2               RAD-0.2          1    X1                                                
+ Res2                0603             1    RSET                         Resistor             
+ S8050               sot23-3          2    Q1, Q2                       NPN Bipolar Transistor 
+ SW-PB               GAMEPAD          8    Key_a1, Key_a2, Key_b1       Switch               
+                                           Key_b2, Key_Down, Key_Left
+                                           Key_Right, Key_UP

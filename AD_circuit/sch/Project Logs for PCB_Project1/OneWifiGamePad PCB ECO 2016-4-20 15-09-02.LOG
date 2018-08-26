@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=J1 Old DesignItemId=VUSB New DesignItemId=Micro-USB
+Change Component Footprint: Designator=R_F1 Old Footprint=AXIAL-0.4 New Footprint=0603
+Change Component Comment : Designator=J1 Old Comment=VUSB New Comment=Micro-USB
+Change Component Library : Designator=J1 Old Library=Schlib1.SchLib New Library=24c02_sot23_5.SchLib
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-6
